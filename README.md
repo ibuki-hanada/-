@@ -1,1 +1,1 @@
-このGameファイルをダウンロードして、Eclipse IDEでgame.javaを実行することで、ゲーム開始できます
+Gameファイルをダウンロードして、Eclipse IDEでgame.javaを実行することで、ゲーム開始できます
